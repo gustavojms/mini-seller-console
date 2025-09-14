@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#2563eb"/>
+  <g fill="white">
+    <!-- Lead/Person icon -->
+    <circle cx="11" cy="9" r="3" fill="white"/>
+    <path d="M6 22c0-3.314 2.239-6 5-6s5 2.686 5 6v1H6v-1z" fill="white"/>
+    
+    <!-- Arrow pointing right (conversion) -->
+    <path d="M18 14h6m0 0l-2-2m2 2l-2 2" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Opportunity/Target icon -->
+    <circle cx="26" cy="14" r="3" stroke="white" stroke-width="1.5" fill="none"/>
+    <circle cx="26" cy="14" r="1" fill="white"/>
+  </g>
+</svg>
