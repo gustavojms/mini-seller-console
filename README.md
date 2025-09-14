@@ -43,8 +43,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd mini-seller-console
+   git clone https://github.com/gustavojms/mini-seller-console
    ```
 
 2. **Install dependencies**
